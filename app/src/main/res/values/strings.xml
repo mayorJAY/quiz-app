@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="what_is_subsistence_farming">What is Subsistence Farming?</string>
+    <string name="farming_that_focuses_on_feeding_the_family_and_making_money">Farming that focuses on feeding the family and making money</string>
+    <string name="farming_that_uses_environment_friendly_techniques">Farming that uses environment friendly techniques</string>
+    <string name="farming_where_the_farmer_produces_food_for_others_to_live_on">Farming where the farmer produces food for others to live on</string>
+    <string name="farming_that_grows_organic_food">Farming that grows organic food</string>
+    <string name="the_major_small_ruminants_reared_in_nigeria_are">The Major Small Ruminants reared in Nigeria are</string>
+    <string name="goat">Goat</string>
+    <string name="pig">Pig</string>
+    <string name="cattle">Cattle</string>
+    <string name="sheep">Sheep</string>
+    <string name="the_animals_produced_by_mating_of_two_different_breeds_of_the_same_species_is_known_as">The Animals Produced by mating of Two Different Breeds of the same Species is known as</string>
+    <string name="mixed_breed">Mixed breed</string>
+    <string name="cross_breed">Cross breed</string>
+    <string name="exotic_breed">Exotic breed</string>
+    <string name="pure_breed">Pure breed</string>
+    <string name="what_is_the_advantage_of_using_crop_rotation">What is the Advantage of using Crop Rotation?</string>
+    <string name="it_helps_the_farmers_make_more_money">It helps the farmers make more money</string>
+    <string name="it_lets_the_nutrients_in_the_soil_replenish">It lets the nutrients in the soil replenish</string>
+    <string name="keeps_the_land_in_good_condition">Keeps the land in good condition</string>
+    <string name="all_of_the_above">All of the above</string>
+    <string name="a_type_of_chemical_that_kills_weeds_is">A Type of Chemical that kills Weeds is Called</string>
+    <string name="type_here">Type here</string>
+    <string name="submit">SUBMIT</string>
+</resources>
